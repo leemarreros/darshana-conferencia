@@ -1,5 +1,9 @@
 # DARSHANA - APRENDE SOLIDITY DESDE 0
 
+![image](https://user-images.githubusercontent.com/3300958/225121040-c8d007f5-38f1-4abe-8a6a-a4e9c364c4ea.png)
+
+
+
 ## **Ponente**
 
 Fundador de la escuela online Blockchain Bites (programación para el Blockchain). Conferencista, escritor y profesor en tópicos de Blockchain. Cofundador del juego [Pachacuy.io](http://pachacuy.io/) (El Axie Infinity de South America). Desarrollador Blockchain en [CuyToken.com](http://cuytoken.com/), la primera empresa de criptocréditos del Perú. 5+ años de experiencia en compañías Fintech (e.g. Yodlee, Tenpo, FIDIS, CuyToken y dcSpark). Estudió Computer Programming Certificate en la Universidad de Santa Clara, California, USA. Graduado del bootcamp del programa inmersivo de Ingeniería de Software Hack Reactor, Los Ángeles. Graduado de Lean UX and Service Design Program (UTEC) y del diplomado de Finanzas Corporativas (UPC).
@@ -14,6 +18,7 @@ En esta clase exploraremos el blokchain de Ethereum para comprender su uso y fun
 2. Partes constitutivas del Blockchain 
 3. Máquina Virtual de Ethereum (EVM)
 4. Programando en Solidity
+5. Extra: Instalando y conociendo Hardhat
 
 ### Requisitos
 
@@ -22,8 +27,8 @@ En esta clase exploraremos el blokchain de Ethereum para comprender su uso y fun
    - Node version 14.x. Usar nvm para intalar otras versiones de `nodeJS`
 
    - Hacer fork del [repositorio de la clase](https://github.com/steveleec/darshana-conferencia)
-   - Ubicarte en el branch `setup` y luego instalar los paquetes de NPM
-     - `$ git checkout setup`
+   - Ubicarte en el branch `setUp` y luego instalar los paquetes de NPM
+     - `$ git checkout setUp`
      - `$ npm install`
    - Abrir un terminal en la carpeta raíz. Correr el siguiente comando y verificar errores:
      - `$ npx hardhat compile`
